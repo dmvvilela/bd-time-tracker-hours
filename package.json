@@ -9,6 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node track.js time_tracker.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
